@@ -1,0 +1,57 @@
+C:\PROJRCTS\SprintImplemention\CargoManagerSystemAPI\CargoBusiness\bin\Debug\net6.0\CargoBusiness.deps.json
+C:\PROJRCTS\SprintImplemention\CargoManagerSystemAPI\CargoBusiness\bin\Debug\net6.0\CargoBusiness.runtimeconfig.json
+C:\PROJRCTS\SprintImplemention\CargoManagerSystemAPI\CargoBusiness\bin\Debug\net6.0\CargoBusiness.dll
+C:\PROJRCTS\SprintImplemention\CargoManagerSystemAPI\CargoBusiness\bin\Debug\net6.0\CargoBusiness.pdb
+C:\PROJRCTS\SprintImplemention\CargoManagerSystemAPI\CargoBusiness\bin\Debug\net6.0\CargoData.dll
+C:\PROJRCTS\SprintImplemention\CargoManagerSystemAPI\CargoBusiness\bin\Debug\net6.0\CargoEntity.dll
+C:\PROJRCTS\SprintImplemention\CargoManagerSystemAPI\CargoBusiness\bin\Debug\net6.0\CargoData.pdb
+C:\PROJRCTS\SprintImplemention\CargoManagerSystemAPI\CargoBusiness\bin\Debug\net6.0\CargoEntity.pdb
+C:\PROJRCTS\SprintImplemention\CargoManagerSystemAPI\CargoBusiness\obj\Debug\net6.0\CargoBusiness.csproj.AssemblyReference.cache
+C:\PROJRCTS\SprintImplemention\CargoManagerSystemAPI\CargoBusiness\obj\Debug\net6.0\CargoBusiness.GeneratedMSBuildEditorConfig.editorconfig
+C:\PROJRCTS\SprintImplemention\CargoManagerSystemAPI\CargoBusiness\obj\Debug\net6.0\CargoBusiness.AssemblyInfoInputs.cache
+C:\PROJRCTS\SprintImplemention\CargoManagerSystemAPI\CargoBusiness\obj\Debug\net6.0\CargoBusiness.AssemblyInfo.cs
+C:\PROJRCTS\SprintImplemention\CargoManagerSystemAPI\CargoBusiness\obj\Debug\net6.0\CargoBusiness.csproj.CoreCompileInputs.cache
+C:\PROJRCTS\SprintImplemention\CargoManagerSystemAPI\CargoBusiness\obj\Debug\net6.0\CargoBusiness.csproj.CopyComplete
+C:\PROJRCTS\SprintImplemention\CargoManagerSystemAPI\CargoBusiness\obj\Debug\net6.0\CargoBusiness.dll
+C:\PROJRCTS\SprintImplemention\CargoManagerSystemAPI\CargoBusiness\obj\Debug\net6.0\refint\CargoBusiness.dll
+C:\PROJRCTS\SprintImplemention\CargoManagerSystemAPI\CargoBusiness\obj\Debug\net6.0\CargoBusiness.pdb
+C:\PROJRCTS\SprintImplemention\CargoManagerSystemAPI\CargoBusiness\obj\Debug\net6.0\CargoBusiness.genruntimeconfig.cache
+C:\PROJRCTS\SprintImplemention\CargoManagerSystemAPI\CargoBusiness\obj\Debug\net6.0\ref\CargoBusiness.dll
+C:\Projects\Sprint Project\CargoManagerSystemAPI\CargoBusiness\bin\Debug\net6.0\CargoBusiness.deps.json
+C:\Projects\Sprint Project\CargoManagerSystemAPI\CargoBusiness\bin\Debug\net6.0\CargoBusiness.runtimeconfig.json
+C:\Projects\Sprint Project\CargoManagerSystemAPI\CargoBusiness\bin\Debug\net6.0\CargoBusiness.dll
+C:\Projects\Sprint Project\CargoManagerSystemAPI\CargoBusiness\bin\Debug\net6.0\CargoBusiness.pdb
+C:\Projects\Sprint Project\CargoManagerSystemAPI\CargoBusiness\bin\Debug\net6.0\CargoData.dll
+C:\Projects\Sprint Project\CargoManagerSystemAPI\CargoBusiness\bin\Debug\net6.0\CargoEntity.dll
+C:\Projects\Sprint Project\CargoManagerSystemAPI\CargoBusiness\bin\Debug\net6.0\CargoData.pdb
+C:\Projects\Sprint Project\CargoManagerSystemAPI\CargoBusiness\bin\Debug\net6.0\CargoEntity.pdb
+C:\Projects\Sprint Project\CargoManagerSystemAPI\CargoBusiness\obj\Debug\net6.0\CargoBusiness.csproj.AssemblyReference.cache
+C:\Projects\Sprint Project\CargoManagerSystemAPI\CargoBusiness\obj\Debug\net6.0\CargoBusiness.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\Sprint Project\CargoManagerSystemAPI\CargoBusiness\obj\Debug\net6.0\CargoBusiness.AssemblyInfoInputs.cache
+C:\Projects\Sprint Project\CargoManagerSystemAPI\CargoBusiness\obj\Debug\net6.0\CargoBusiness.AssemblyInfo.cs
+C:\Projects\Sprint Project\CargoManagerSystemAPI\CargoBusiness\obj\Debug\net6.0\CargoBusiness.csproj.CoreCompileInputs.cache
+C:\Projects\Sprint Project\CargoManagerSystemAPI\CargoBusiness\obj\Debug\net6.0\CargoBusiness.csproj.CopyComplete
+C:\Projects\Sprint Project\CargoManagerSystemAPI\CargoBusiness\obj\Debug\net6.0\CargoBusiness.dll
+C:\Projects\Sprint Project\CargoManagerSystemAPI\CargoBusiness\obj\Debug\net6.0\refint\CargoBusiness.dll
+C:\Projects\Sprint Project\CargoManagerSystemAPI\CargoBusiness\obj\Debug\net6.0\CargoBusiness.pdb
+C:\Projects\Sprint Project\CargoManagerSystemAPI\CargoBusiness\obj\Debug\net6.0\CargoBusiness.genruntimeconfig.cache
+C:\Projects\Sprint Project\CargoManagerSystemAPI\CargoBusiness\obj\Debug\net6.0\ref\CargoBusiness.dll
+D:\DOTNET PRJ\cargoapi-master\CargoBusiness\bin\Debug\net6.0\CargoBusiness.deps.json
+D:\DOTNET PRJ\cargoapi-master\CargoBusiness\bin\Debug\net6.0\CargoBusiness.runtimeconfig.json
+D:\DOTNET PRJ\cargoapi-master\CargoBusiness\bin\Debug\net6.0\CargoBusiness.dll
+D:\DOTNET PRJ\cargoapi-master\CargoBusiness\bin\Debug\net6.0\CargoBusiness.pdb
+D:\DOTNET PRJ\cargoapi-master\CargoBusiness\bin\Debug\net6.0\CargoData.dll
+D:\DOTNET PRJ\cargoapi-master\CargoBusiness\bin\Debug\net6.0\CargoEntity.dll
+D:\DOTNET PRJ\cargoapi-master\CargoBusiness\bin\Debug\net6.0\CargoData.pdb
+D:\DOTNET PRJ\cargoapi-master\CargoBusiness\bin\Debug\net6.0\CargoEntity.pdb
+D:\DOTNET PRJ\cargoapi-master\CargoBusiness\obj\Debug\net6.0\CargoBusiness.csproj.AssemblyReference.cache
+D:\DOTNET PRJ\cargoapi-master\CargoBusiness\obj\Debug\net6.0\CargoBusiness.GeneratedMSBuildEditorConfig.editorconfig
+D:\DOTNET PRJ\cargoapi-master\CargoBusiness\obj\Debug\net6.0\CargoBusiness.AssemblyInfoInputs.cache
+D:\DOTNET PRJ\cargoapi-master\CargoBusiness\obj\Debug\net6.0\CargoBusiness.AssemblyInfo.cs
+D:\DOTNET PRJ\cargoapi-master\CargoBusiness\obj\Debug\net6.0\CargoBusiness.csproj.CoreCompileInputs.cache
+D:\DOTNET PRJ\cargoapi-master\CargoBusiness\obj\Debug\net6.0\CargoBus.9CA17F7F.Up2Date
+D:\DOTNET PRJ\cargoapi-master\CargoBusiness\obj\Debug\net6.0\CargoBusiness.dll
+D:\DOTNET PRJ\cargoapi-master\CargoBusiness\obj\Debug\net6.0\refint\CargoBusiness.dll
+D:\DOTNET PRJ\cargoapi-master\CargoBusiness\obj\Debug\net6.0\CargoBusiness.pdb
+D:\DOTNET PRJ\cargoapi-master\CargoBusiness\obj\Debug\net6.0\CargoBusiness.genruntimeconfig.cache
+D:\DOTNET PRJ\cargoapi-master\CargoBusiness\obj\Debug\net6.0\ref\CargoBusiness.dll

@@ -1,0 +1,213 @@
+C:\PROJRCTS\SprintImplemention\CargoManagerSystemAPI\CargoManagerSystemAPI\bin\Debug\net6.0\appsettings.Development.json
+C:\PROJRCTS\SprintImplemention\CargoManagerSystemAPI\CargoManagerSystemAPI\bin\Debug\net6.0\appsettings.json
+C:\PROJRCTS\SprintImplemention\CargoManagerSystemAPI\CargoManagerSystemAPI\bin\Debug\net6.0\CargoManagerSystemAPI.exe
+C:\PROJRCTS\SprintImplemention\CargoManagerSystemAPI\CargoManagerSystemAPI\bin\Debug\net6.0\CargoManagerSystemAPI.deps.json
+C:\PROJRCTS\SprintImplemention\CargoManagerSystemAPI\CargoManagerSystemAPI\bin\Debug\net6.0\CargoManagerSystemAPI.runtimeconfig.json
+C:\PROJRCTS\SprintImplemention\CargoManagerSystemAPI\CargoManagerSystemAPI\bin\Debug\net6.0\CargoManagerSystemAPI.dll
+C:\PROJRCTS\SprintImplemention\CargoManagerSystemAPI\CargoManagerSystemAPI\bin\Debug\net6.0\CargoManagerSystemAPI.pdb
+C:\PROJRCTS\SprintImplemention\CargoManagerSystemAPI\CargoManagerSystemAPI\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\PROJRCTS\SprintImplemention\CargoManagerSystemAPI\CargoManagerSystemAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\PROJRCTS\SprintImplemention\CargoManagerSystemAPI\CargoManagerSystemAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\PROJRCTS\SprintImplemention\CargoManagerSystemAPI\CargoManagerSystemAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\PROJRCTS\SprintImplemention\CargoManagerSystemAPI\CargoManagerSystemAPI\obj\Debug\net6.0\CargoManagerSystemAPI.csproj.AssemblyReference.cache
+C:\PROJRCTS\SprintImplemention\CargoManagerSystemAPI\CargoManagerSystemAPI\obj\Debug\net6.0\CargoManagerSystemAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\PROJRCTS\SprintImplemention\CargoManagerSystemAPI\CargoManagerSystemAPI\obj\Debug\net6.0\CargoManagerSystemAPI.AssemblyInfoInputs.cache
+C:\PROJRCTS\SprintImplemention\CargoManagerSystemAPI\CargoManagerSystemAPI\obj\Debug\net6.0\CargoManagerSystemAPI.AssemblyInfo.cs
+C:\PROJRCTS\SprintImplemention\CargoManagerSystemAPI\CargoManagerSystemAPI\obj\Debug\net6.0\CargoManagerSystemAPI.csproj.CoreCompileInputs.cache
+C:\PROJRCTS\SprintImplemention\CargoManagerSystemAPI\CargoManagerSystemAPI\obj\Debug\net6.0\CargoManagerSystemAPI.MvcApplicationPartsAssemblyInfo.cs
+C:\PROJRCTS\SprintImplemention\CargoManagerSystemAPI\CargoManagerSystemAPI\obj\Debug\net6.0\CargoManagerSystemAPI.MvcApplicationPartsAssemblyInfo.cache
+C:\PROJRCTS\SprintImplemention\CargoManagerSystemAPI\CargoManagerSystemAPI\obj\Debug\net6.0\staticwebassets.build.json
+C:\PROJRCTS\SprintImplemention\CargoManagerSystemAPI\CargoManagerSystemAPI\obj\Debug\net6.0\staticwebassets.development.json
+C:\PROJRCTS\SprintImplemention\CargoManagerSystemAPI\CargoManagerSystemAPI\obj\Debug\net6.0\staticwebassets\msbuild.CargoManagerSystemAPI.Microsoft.AspNetCore.StaticWebAssets.props
+C:\PROJRCTS\SprintImplemention\CargoManagerSystemAPI\CargoManagerSystemAPI\obj\Debug\net6.0\staticwebassets\msbuild.build.CargoManagerSystemAPI.props
+C:\PROJRCTS\SprintImplemention\CargoManagerSystemAPI\CargoManagerSystemAPI\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.CargoManagerSystemAPI.props
+C:\PROJRCTS\SprintImplemention\CargoManagerSystemAPI\CargoManagerSystemAPI\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.CargoManagerSystemAPI.props
+C:\PROJRCTS\SprintImplemention\CargoManagerSystemAPI\CargoManagerSystemAPI\obj\Debug\net6.0\staticwebassets.pack.json
+C:\PROJRCTS\SprintImplemention\CargoManagerSystemAPI\CargoManagerSystemAPI\obj\Debug\net6.0\scopedcss\bundle\CargoManagerSystemAPI.styles.css
+C:\PROJRCTS\SprintImplemention\CargoManagerSystemAPI\CargoManagerSystemAPI\obj\Debug\net6.0\CargoManagerSystemAPI.csproj.CopyComplete
+C:\PROJRCTS\SprintImplemention\CargoManagerSystemAPI\CargoManagerSystemAPI\obj\Debug\net6.0\CargoManagerSystemAPI.dll
+C:\PROJRCTS\SprintImplemention\CargoManagerSystemAPI\CargoManagerSystemAPI\obj\Debug\net6.0\refint\CargoManagerSystemAPI.dll
+C:\PROJRCTS\SprintImplemention\CargoManagerSystemAPI\CargoManagerSystemAPI\obj\Debug\net6.0\CargoManagerSystemAPI.pdb
+C:\PROJRCTS\SprintImplemention\CargoManagerSystemAPI\CargoManagerSystemAPI\obj\Debug\net6.0\CargoManagerSystemAPI.genruntimeconfig.cache
+C:\PROJRCTS\SprintImplemention\CargoManagerSystemAPI\CargoManagerSystemAPI\obj\Debug\net6.0\ref\CargoManagerSystemAPI.dll
+C:\PROJRCTS\SprintImplemention\CargoManagerSystemAPI\CargoManagerSystemAPI\bin\Debug\net6.0\Humanizer.dll
+C:\PROJRCTS\SprintImplemention\CargoManagerSystemAPI\CargoManagerSystemAPI\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\PROJRCTS\SprintImplemention\CargoManagerSystemAPI\CargoManagerSystemAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\PROJRCTS\SprintImplemention\CargoManagerSystemAPI\CargoManagerSystemAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\PROJRCTS\SprintImplemention\CargoManagerSystemAPI\CargoManagerSystemAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\PROJRCTS\SprintImplemention\CargoManagerSystemAPI\CargoManagerSystemAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\PROJRCTS\SprintImplemention\CargoManagerSystemAPI\CargoManagerSystemAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\PROJRCTS\SprintImplemention\CargoManagerSystemAPI\CargoManagerSystemAPI\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\PROJRCTS\SprintImplemention\CargoManagerSystemAPI\CargoManagerSystemAPI\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\PROJRCTS\SprintImplemention\CargoManagerSystemAPI\CargoManagerSystemAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\PROJRCTS\SprintImplemention\CargoManagerSystemAPI\CargoManagerSystemAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\PROJRCTS\SprintImplemention\CargoManagerSystemAPI\CargoManagerSystemAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\PROJRCTS\SprintImplemention\CargoManagerSystemAPI\CargoManagerSystemAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\PROJRCTS\SprintImplemention\CargoManagerSystemAPI\CargoManagerSystemAPI\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\PROJRCTS\SprintImplemention\CargoManagerSystemAPI\CargoManagerSystemAPI\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\PROJRCTS\SprintImplemention\CargoManagerSystemAPI\CargoManagerSystemAPI\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\PROJRCTS\SprintImplemention\CargoManagerSystemAPI\CargoManagerSystemAPI\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\PROJRCTS\SprintImplemention\CargoManagerSystemAPI\CargoManagerSystemAPI\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\PROJRCTS\SprintImplemention\CargoManagerSystemAPI\CargoManagerSystemAPI\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\PROJRCTS\SprintImplemention\CargoManagerSystemAPI\CargoManagerSystemAPI\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\PROJRCTS\SprintImplemention\CargoManagerSystemAPI\CargoManagerSystemAPI\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\PROJRCTS\SprintImplemention\CargoManagerSystemAPI\CargoManagerSystemAPI\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\PROJRCTS\SprintImplemention\CargoManagerSystemAPI\CargoManagerSystemAPI\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\PROJRCTS\SprintImplemention\CargoManagerSystemAPI\CargoManagerSystemAPI\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\PROJRCTS\SprintImplemention\CargoManagerSystemAPI\CargoManagerSystemAPI\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\PROJRCTS\SprintImplemention\CargoManagerSystemAPI\CargoManagerSystemAPI\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\PROJRCTS\SprintImplemention\CargoManagerSystemAPI\CargoManagerSystemAPI\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\PROJRCTS\SprintImplemention\CargoManagerSystemAPI\CargoManagerSystemAPI\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\PROJRCTS\SprintImplemention\CargoManagerSystemAPI\CargoManagerSystemAPI\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\PROJRCTS\SprintImplemention\CargoManagerSystemAPI\CargoManagerSystemAPI\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\PROJRCTS\SprintImplemention\CargoManagerSystemAPI\CargoManagerSystemAPI\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\PROJRCTS\SprintImplemention\CargoManagerSystemAPI\CargoManagerSystemAPI\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\PROJRCTS\SprintImplemention\CargoManagerSystemAPI\CargoManagerSystemAPI\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\PROJRCTS\SprintImplemention\CargoManagerSystemAPI\CargoManagerSystemAPI\bin\Debug\net6.0\CargoData.dll
+C:\PROJRCTS\SprintImplemention\CargoManagerSystemAPI\CargoManagerSystemAPI\bin\Debug\net6.0\CargoEntity.dll
+C:\PROJRCTS\SprintImplemention\CargoManagerSystemAPI\CargoManagerSystemAPI\bin\Debug\net6.0\CargoData.pdb
+C:\PROJRCTS\SprintImplemention\CargoManagerSystemAPI\CargoManagerSystemAPI\bin\Debug\net6.0\CargoEntity.pdb
+C:\PROJRCTS\SprintImplemention\CargoManagerSystemAPI\CargoManagerSystemAPI\bin\Debug\net6.0\CargoBusiness.dll
+C:\PROJRCTS\SprintImplemention\CargoManagerSystemAPI\CargoManagerSystemAPI\bin\Debug\net6.0\CargoBusiness.pdb
+C:\Projects\Sprint Project\CargoManagerSystemAPI\CargoManagerSystemAPI\bin\Debug\net6.0\appsettings.Development.json
+C:\Projects\Sprint Project\CargoManagerSystemAPI\CargoManagerSystemAPI\bin\Debug\net6.0\appsettings.json
+C:\Projects\Sprint Project\CargoManagerSystemAPI\CargoManagerSystemAPI\bin\Debug\net6.0\CargoManagerSystemAPI.exe
+C:\Projects\Sprint Project\CargoManagerSystemAPI\CargoManagerSystemAPI\bin\Debug\net6.0\CargoManagerSystemAPI.deps.json
+C:\Projects\Sprint Project\CargoManagerSystemAPI\CargoManagerSystemAPI\bin\Debug\net6.0\CargoManagerSystemAPI.runtimeconfig.json
+C:\Projects\Sprint Project\CargoManagerSystemAPI\CargoManagerSystemAPI\bin\Debug\net6.0\CargoManagerSystemAPI.dll
+C:\Projects\Sprint Project\CargoManagerSystemAPI\CargoManagerSystemAPI\bin\Debug\net6.0\CargoManagerSystemAPI.pdb
+C:\Projects\Sprint Project\CargoManagerSystemAPI\CargoManagerSystemAPI\bin\Debug\net6.0\Humanizer.dll
+C:\Projects\Sprint Project\CargoManagerSystemAPI\CargoManagerSystemAPI\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Projects\Sprint Project\CargoManagerSystemAPI\CargoManagerSystemAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Projects\Sprint Project\CargoManagerSystemAPI\CargoManagerSystemAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Projects\Sprint Project\CargoManagerSystemAPI\CargoManagerSystemAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Projects\Sprint Project\CargoManagerSystemAPI\CargoManagerSystemAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Projects\Sprint Project\CargoManagerSystemAPI\CargoManagerSystemAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Projects\Sprint Project\CargoManagerSystemAPI\CargoManagerSystemAPI\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Projects\Sprint Project\CargoManagerSystemAPI\CargoManagerSystemAPI\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Projects\Sprint Project\CargoManagerSystemAPI\CargoManagerSystemAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Projects\Sprint Project\CargoManagerSystemAPI\CargoManagerSystemAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Projects\Sprint Project\CargoManagerSystemAPI\CargoManagerSystemAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Projects\Sprint Project\CargoManagerSystemAPI\CargoManagerSystemAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Projects\Sprint Project\CargoManagerSystemAPI\CargoManagerSystemAPI\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Projects\Sprint Project\CargoManagerSystemAPI\CargoManagerSystemAPI\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Projects\Sprint Project\CargoManagerSystemAPI\CargoManagerSystemAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Projects\Sprint Project\CargoManagerSystemAPI\CargoManagerSystemAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Projects\Sprint Project\CargoManagerSystemAPI\CargoManagerSystemAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Projects\Sprint Project\CargoManagerSystemAPI\CargoManagerSystemAPI\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Projects\Sprint Project\CargoManagerSystemAPI\CargoManagerSystemAPI\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Projects\Sprint Project\CargoManagerSystemAPI\CargoManagerSystemAPI\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Projects\Sprint Project\CargoManagerSystemAPI\CargoManagerSystemAPI\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Projects\Sprint Project\CargoManagerSystemAPI\CargoManagerSystemAPI\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Projects\Sprint Project\CargoManagerSystemAPI\CargoManagerSystemAPI\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Projects\Sprint Project\CargoManagerSystemAPI\CargoManagerSystemAPI\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Projects\Sprint Project\CargoManagerSystemAPI\CargoManagerSystemAPI\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Projects\Sprint Project\CargoManagerSystemAPI\CargoManagerSystemAPI\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Projects\Sprint Project\CargoManagerSystemAPI\CargoManagerSystemAPI\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Projects\Sprint Project\CargoManagerSystemAPI\CargoManagerSystemAPI\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Projects\Sprint Project\CargoManagerSystemAPI\CargoManagerSystemAPI\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Projects\Sprint Project\CargoManagerSystemAPI\CargoManagerSystemAPI\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Projects\Sprint Project\CargoManagerSystemAPI\CargoManagerSystemAPI\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Projects\Sprint Project\CargoManagerSystemAPI\CargoManagerSystemAPI\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Projects\Sprint Project\CargoManagerSystemAPI\CargoManagerSystemAPI\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Projects\Sprint Project\CargoManagerSystemAPI\CargoManagerSystemAPI\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Projects\Sprint Project\CargoManagerSystemAPI\CargoManagerSystemAPI\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Projects\Sprint Project\CargoManagerSystemAPI\CargoManagerSystemAPI\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Projects\Sprint Project\CargoManagerSystemAPI\CargoManagerSystemAPI\bin\Debug\net6.0\CargoBusiness.dll
+C:\Projects\Sprint Project\CargoManagerSystemAPI\CargoManagerSystemAPI\bin\Debug\net6.0\CargoData.dll
+C:\Projects\Sprint Project\CargoManagerSystemAPI\CargoManagerSystemAPI\bin\Debug\net6.0\CargoEntity.dll
+C:\Projects\Sprint Project\CargoManagerSystemAPI\CargoManagerSystemAPI\bin\Debug\net6.0\CargoBusiness.pdb
+C:\Projects\Sprint Project\CargoManagerSystemAPI\CargoManagerSystemAPI\bin\Debug\net6.0\CargoData.pdb
+C:\Projects\Sprint Project\CargoManagerSystemAPI\CargoManagerSystemAPI\bin\Debug\net6.0\CargoEntity.pdb
+C:\Projects\Sprint Project\CargoManagerSystemAPI\CargoManagerSystemAPI\obj\Debug\net6.0\CargoManagerSystemAPI.csproj.AssemblyReference.cache
+C:\Projects\Sprint Project\CargoManagerSystemAPI\CargoManagerSystemAPI\obj\Debug\net6.0\CargoManagerSystemAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\Sprint Project\CargoManagerSystemAPI\CargoManagerSystemAPI\obj\Debug\net6.0\CargoManagerSystemAPI.AssemblyInfoInputs.cache
+C:\Projects\Sprint Project\CargoManagerSystemAPI\CargoManagerSystemAPI\obj\Debug\net6.0\CargoManagerSystemAPI.AssemblyInfo.cs
+C:\Projects\Sprint Project\CargoManagerSystemAPI\CargoManagerSystemAPI\obj\Debug\net6.0\CargoManagerSystemAPI.csproj.CoreCompileInputs.cache
+C:\Projects\Sprint Project\CargoManagerSystemAPI\CargoManagerSystemAPI\obj\Debug\net6.0\CargoManagerSystemAPI.MvcApplicationPartsAssemblyInfo.cs
+C:\Projects\Sprint Project\CargoManagerSystemAPI\CargoManagerSystemAPI\obj\Debug\net6.0\CargoManagerSystemAPI.MvcApplicationPartsAssemblyInfo.cache
+C:\Projects\Sprint Project\CargoManagerSystemAPI\CargoManagerSystemAPI\obj\Debug\net6.0\staticwebassets.build.json
+C:\Projects\Sprint Project\CargoManagerSystemAPI\CargoManagerSystemAPI\obj\Debug\net6.0\staticwebassets.development.json
+C:\Projects\Sprint Project\CargoManagerSystemAPI\CargoManagerSystemAPI\obj\Debug\net6.0\staticwebassets\msbuild.CargoManagerSystemAPI.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Projects\Sprint Project\CargoManagerSystemAPI\CargoManagerSystemAPI\obj\Debug\net6.0\staticwebassets\msbuild.build.CargoManagerSystemAPI.props
+C:\Projects\Sprint Project\CargoManagerSystemAPI\CargoManagerSystemAPI\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.CargoManagerSystemAPI.props
+C:\Projects\Sprint Project\CargoManagerSystemAPI\CargoManagerSystemAPI\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.CargoManagerSystemAPI.props
+C:\Projects\Sprint Project\CargoManagerSystemAPI\CargoManagerSystemAPI\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Projects\Sprint Project\CargoManagerSystemAPI\CargoManagerSystemAPI\obj\Debug\net6.0\scopedcss\bundle\CargoManagerSystemAPI.styles.css
+C:\Projects\Sprint Project\CargoManagerSystemAPI\CargoManagerSystemAPI\obj\Debug\net6.0\CargoManagerSystemAPI.csproj.CopyComplete
+C:\Projects\Sprint Project\CargoManagerSystemAPI\CargoManagerSystemAPI\obj\Debug\net6.0\CargoManagerSystemAPI.dll
+C:\Projects\Sprint Project\CargoManagerSystemAPI\CargoManagerSystemAPI\obj\Debug\net6.0\refint\CargoManagerSystemAPI.dll
+C:\Projects\Sprint Project\CargoManagerSystemAPI\CargoManagerSystemAPI\obj\Debug\net6.0\CargoManagerSystemAPI.pdb
+C:\Projects\Sprint Project\CargoManagerSystemAPI\CargoManagerSystemAPI\obj\Debug\net6.0\CargoManagerSystemAPI.genruntimeconfig.cache
+C:\Projects\Sprint Project\CargoManagerSystemAPI\CargoManagerSystemAPI\obj\Debug\net6.0\ref\CargoManagerSystemAPI.dll
+D:\DOTNET PRJ\cargoapi-master\CargoManagerSystemAPI\bin\Debug\net6.0\appsettings.Development.json
+D:\DOTNET PRJ\cargoapi-master\CargoManagerSystemAPI\bin\Debug\net6.0\appsettings.json
+D:\DOTNET PRJ\cargoapi-master\CargoManagerSystemAPI\bin\Debug\net6.0\CargoManagerSystemAPI.exe
+D:\DOTNET PRJ\cargoapi-master\CargoManagerSystemAPI\bin\Debug\net6.0\CargoManagerSystemAPI.deps.json
+D:\DOTNET PRJ\cargoapi-master\CargoManagerSystemAPI\bin\Debug\net6.0\CargoManagerSystemAPI.runtimeconfig.json
+D:\DOTNET PRJ\cargoapi-master\CargoManagerSystemAPI\bin\Debug\net6.0\CargoManagerSystemAPI.dll
+D:\DOTNET PRJ\cargoapi-master\CargoManagerSystemAPI\bin\Debug\net6.0\CargoManagerSystemAPI.pdb
+D:\DOTNET PRJ\cargoapi-master\CargoManagerSystemAPI\bin\Debug\net6.0\Humanizer.dll
+D:\DOTNET PRJ\cargoapi-master\CargoManagerSystemAPI\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+D:\DOTNET PRJ\cargoapi-master\CargoManagerSystemAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+D:\DOTNET PRJ\cargoapi-master\CargoManagerSystemAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\DOTNET PRJ\cargoapi-master\CargoManagerSystemAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\DOTNET PRJ\cargoapi-master\CargoManagerSystemAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\DOTNET PRJ\cargoapi-master\CargoManagerSystemAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\DOTNET PRJ\cargoapi-master\CargoManagerSystemAPI\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+D:\DOTNET PRJ\cargoapi-master\CargoManagerSystemAPI\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\DOTNET PRJ\cargoapi-master\CargoManagerSystemAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+D:\DOTNET PRJ\cargoapi-master\CargoManagerSystemAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+D:\DOTNET PRJ\cargoapi-master\CargoManagerSystemAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\DOTNET PRJ\cargoapi-master\CargoManagerSystemAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+D:\DOTNET PRJ\cargoapi-master\CargoManagerSystemAPI\bin\Debug\net6.0\Microsoft.OpenApi.dll
+D:\DOTNET PRJ\cargoapi-master\CargoManagerSystemAPI\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\DOTNET PRJ\cargoapi-master\CargoManagerSystemAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\DOTNET PRJ\cargoapi-master\CargoManagerSystemAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\DOTNET PRJ\cargoapi-master\CargoManagerSystemAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\DOTNET PRJ\cargoapi-master\CargoManagerSystemAPI\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+D:\DOTNET PRJ\cargoapi-master\CargoManagerSystemAPI\bin\Debug\net6.0\System.Drawing.Common.dll
+D:\DOTNET PRJ\cargoapi-master\CargoManagerSystemAPI\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+D:\DOTNET PRJ\cargoapi-master\CargoManagerSystemAPI\bin\Debug\net6.0\System.Runtime.Caching.dll
+D:\DOTNET PRJ\cargoapi-master\CargoManagerSystemAPI\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\DOTNET PRJ\cargoapi-master\CargoManagerSystemAPI\bin\Debug\net6.0\System.Security.Permissions.dll
+D:\DOTNET PRJ\cargoapi-master\CargoManagerSystemAPI\bin\Debug\net6.0\System.Windows.Extensions.dll
+D:\DOTNET PRJ\cargoapi-master\CargoManagerSystemAPI\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\DOTNET PRJ\cargoapi-master\CargoManagerSystemAPI\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\DOTNET PRJ\cargoapi-master\CargoManagerSystemAPI\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\DOTNET PRJ\cargoapi-master\CargoManagerSystemAPI\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\DOTNET PRJ\cargoapi-master\CargoManagerSystemAPI\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\DOTNET PRJ\cargoapi-master\CargoManagerSystemAPI\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\DOTNET PRJ\cargoapi-master\CargoManagerSystemAPI\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+D:\DOTNET PRJ\cargoapi-master\CargoManagerSystemAPI\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\DOTNET PRJ\cargoapi-master\CargoManagerSystemAPI\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\DOTNET PRJ\cargoapi-master\CargoManagerSystemAPI\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\DOTNET PRJ\cargoapi-master\CargoManagerSystemAPI\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\DOTNET PRJ\cargoapi-master\CargoManagerSystemAPI\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+D:\DOTNET PRJ\cargoapi-master\CargoManagerSystemAPI\bin\Debug\net6.0\CargoBusiness.dll
+D:\DOTNET PRJ\cargoapi-master\CargoManagerSystemAPI\bin\Debug\net6.0\CargoData.dll
+D:\DOTNET PRJ\cargoapi-master\CargoManagerSystemAPI\bin\Debug\net6.0\CargoEntity.dll
+D:\DOTNET PRJ\cargoapi-master\CargoManagerSystemAPI\bin\Debug\net6.0\CargoBusiness.pdb
+D:\DOTNET PRJ\cargoapi-master\CargoManagerSystemAPI\bin\Debug\net6.0\CargoData.pdb
+D:\DOTNET PRJ\cargoapi-master\CargoManagerSystemAPI\bin\Debug\net6.0\CargoEntity.pdb
+D:\DOTNET PRJ\cargoapi-master\CargoManagerSystemAPI\obj\Debug\net6.0\CargoManagerSystemAPI.csproj.AssemblyReference.cache
+D:\DOTNET PRJ\cargoapi-master\CargoManagerSystemAPI\obj\Debug\net6.0\CargoManagerSystemAPI.GeneratedMSBuildEditorConfig.editorconfig
+D:\DOTNET PRJ\cargoapi-master\CargoManagerSystemAPI\obj\Debug\net6.0\CargoManagerSystemAPI.AssemblyInfoInputs.cache
+D:\DOTNET PRJ\cargoapi-master\CargoManagerSystemAPI\obj\Debug\net6.0\CargoManagerSystemAPI.AssemblyInfo.cs
+D:\DOTNET PRJ\cargoapi-master\CargoManagerSystemAPI\obj\Debug\net6.0\CargoManagerSystemAPI.csproj.CoreCompileInputs.cache
+D:\DOTNET PRJ\cargoapi-master\CargoManagerSystemAPI\obj\Debug\net6.0\CargoManagerSystemAPI.MvcApplicationPartsAssemblyInfo.cs
+D:\DOTNET PRJ\cargoapi-master\CargoManagerSystemAPI\obj\Debug\net6.0\CargoManagerSystemAPI.MvcApplicationPartsAssemblyInfo.cache
+D:\DOTNET PRJ\cargoapi-master\CargoManagerSystemAPI\obj\Debug\net6.0\staticwebassets.build.json
+D:\DOTNET PRJ\cargoapi-master\CargoManagerSystemAPI\obj\Debug\net6.0\staticwebassets.development.json
+D:\DOTNET PRJ\cargoapi-master\CargoManagerSystemAPI\obj\Debug\net6.0\staticwebassets\msbuild.CargoManagerSystemAPI.Microsoft.AspNetCore.StaticWebAssets.props
+D:\DOTNET PRJ\cargoapi-master\CargoManagerSystemAPI\obj\Debug\net6.0\staticwebassets\msbuild.build.CargoManagerSystemAPI.props
+D:\DOTNET PRJ\cargoapi-master\CargoManagerSystemAPI\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.CargoManagerSystemAPI.props
+D:\DOTNET PRJ\cargoapi-master\CargoManagerSystemAPI\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.CargoManagerSystemAPI.props
+D:\DOTNET PRJ\cargoapi-master\CargoManagerSystemAPI\obj\Debug\net6.0\staticwebassets.pack.json
+D:\DOTNET PRJ\cargoapi-master\CargoManagerSystemAPI\obj\Debug\net6.0\scopedcss\bundle\CargoManagerSystemAPI.styles.css
+D:\DOTNET PRJ\cargoapi-master\CargoManagerSystemAPI\obj\Debug\net6.0\CargoMan.A072DAB0.Up2Date
+D:\DOTNET PRJ\cargoapi-master\CargoManagerSystemAPI\obj\Debug\net6.0\CargoManagerSystemAPI.dll
+D:\DOTNET PRJ\cargoapi-master\CargoManagerSystemAPI\obj\Debug\net6.0\refint\CargoManagerSystemAPI.dll
+D:\DOTNET PRJ\cargoapi-master\CargoManagerSystemAPI\obj\Debug\net6.0\CargoManagerSystemAPI.pdb
+D:\DOTNET PRJ\cargoapi-master\CargoManagerSystemAPI\obj\Debug\net6.0\CargoManagerSystemAPI.genruntimeconfig.cache
+D:\DOTNET PRJ\cargoapi-master\CargoManagerSystemAPI\obj\Debug\net6.0\ref\CargoManagerSystemAPI.dll
